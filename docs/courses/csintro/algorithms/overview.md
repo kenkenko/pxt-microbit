@@ -1,19 +1,18 @@
-# Introduction
+# 簡介
 
-What is a micro:bit?
-The micro:bit was created in 2015 in the UK by the BBC to teach computer science to students. The BBC gave away a micro:bit to every Year 7 student in the UK. You can think of a micro:bit as a mini computer.
-http://microbit.org
+甚麼是 micro:bit?
+2015年，英國廣播有限公司（BBC）開始推出 micro:bit，用以教授學生電腦科學。BBC 向所有英國的 7 年級學生分發一部 micro:bit。你可以視 micro:bit 為一部微型電腦。http://microbit.org
 
 ![BBC micro:bit](/static/courses/csintro/algorithms/bbc-microbit.jpg)
 
-## What is a computer?
-There are 4 main components that make up any computer:
+## 電腦是甚麼
+電腦可以分成以下 4 個主要部分:
 
 ![Computer components](/static/courses/csintro/algorithms/cpu.png)
 
-1. The Processor – this is usually a small chip inside the computer, and it’s how the computer processes and transforms information. Has anyone heard of the term “CPU”?  CPU stands for Central Processing Unit. You can think of the processor as the Brains of the computer - the faster the processor, the more quickly the computer can think.
+1. 處理器 – 通常是電腦內一粒很小的晶片，而處理器就是電腦處理和轉化資料的關鍵。大家都聽過｢CPU」吧！CPU 就是中央處理器（Central Processing Unit）。處理器就好像電腦內的大腦 - 處理器越快，電腦的速度也越快。
 
-2. The Memory – this is how the computer remembers things. There are two types of memory:
+2. 記憶體 – 電腦就是這樣記住東西 There are two types of memory:
 >* RAM (random access memory) - you can think of this as the computer’s short-term memory
 >* Storage (also referred to as the “hard drive”) - this is the computer’s long-term memory, where it can store information even when power is turned off
 
